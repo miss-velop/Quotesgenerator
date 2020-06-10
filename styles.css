@@ -1,0 +1,42 @@
+header{
+    padding: 2em;
+    background-color: antiquewhite;
+    margin-top: 2em;
+    
+}
+html{
+   background-color: rgb(49, 133, 105);
+}
+.quote{
+    font: size 2em;
+    background-color: pink;
+
+}
+.btn-large{
+    justify-content: center;
+    margin: 0.5em;
+
+}
+.container{
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.card
+{
+    background-color: pink;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+button:hover{
+    background-color: brown;
+
+}
+.newQuoteSection
+{
+    background-color: burlywood;
+    border-color: crimson;
+}
